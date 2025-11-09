@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1762704008956
+current_stage: None
+description: null
+last_updated_timestamp: 1762704008956
+name: CreditRiskModel
+run_id: 4aa4085fcaca4a0f908a5fc44c871fd9
+run_link: null
+source: file:///Users/sahi/projets/credit-risk/mlruns/226745146054589444/4aa4085fcaca4a0f908a5fc44c871fd9/artifacts/credit_risk_model
+status: READY
+status_message: null
+storage_location: file:///Users/sahi/projets/credit-risk/mlruns/226745146054589444/4aa4085fcaca4a0f908a5fc44c871fd9/artifacts/credit_risk_model
+user_id: null
+version: 1

@@ -1,0 +1,20 @@
+artifact_path: credit_risk_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 55681540
+model_uuid: 80129f757d824448bfd27e23b03e27f6
+run_id: 4aa4085fcaca4a0f908a5fc44c871fd9
+utc_time_created: '2025-11-09 16:00:06.212133'

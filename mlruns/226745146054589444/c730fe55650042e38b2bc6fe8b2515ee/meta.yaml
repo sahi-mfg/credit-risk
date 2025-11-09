@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahi/projets/credit-risk/mlruns/226745146054589444/c730fe55650042e38b2bc6fe8b2515ee/artifacts
+end_time: 1762703747343
+entry_point_name: ''
+experiment_id: '226745146054589444'
+lifecycle_stage: active
+run_id: c730fe55650042e38b2bc6fe8b2515ee
+run_name: chill-zebra-329
+run_uuid: c730fe55650042e38b2bc6fe8b2515ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762703747317
+status: 4
+tags: []
+user_id: sahi
