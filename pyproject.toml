@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12.5"
 dependencies = [
     "fastapi>=0.115.4",
+    "imblearn>=0.0",
     "ipykernel>=6.29.5",
     "mlflow>=2.17.2",
     "nbformat>=5.10.4",
